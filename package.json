@@ -1,0 +1,19 @@
+{
+  "name": "vanillajs-accordion",
+  "version": "1.0.0",
+  "description": "Accordion in VanillaJS",
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Facundo Vergara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
